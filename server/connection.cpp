@@ -12,7 +12,7 @@ namespace httpsrvr {
 namespace {
 
 const std::string htmlPath =
-    "C:/Netology/Diploma/SE/index.html";
+    "C:/SE/index.html";
 
 std::string url_decode(const std::string &encoded) {
   std::string res;
